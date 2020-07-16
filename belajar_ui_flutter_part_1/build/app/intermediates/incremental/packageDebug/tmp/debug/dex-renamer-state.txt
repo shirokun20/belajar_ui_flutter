@@ -1,4 +1,4 @@
-#Thu Jul 16 22:52:45 WIB 2020
-base.0=/Users/shirokun/Documents/flutter/belajar_ui_part_1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Thu Jul 16 23:08:12 WIB 2020
+base.0=/Users/shirokun/Documents/flutter/belajar_ui/belajar_ui_flutter_part_1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
