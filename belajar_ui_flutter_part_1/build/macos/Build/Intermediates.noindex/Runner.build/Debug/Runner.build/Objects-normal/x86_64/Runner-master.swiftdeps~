@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "3e1f0229268482a44655a77816b00aa5"
+build_time: [1594902751, 557079000]
+inputs:
+  "/Users/shirokun/Documents/flutter/belajar_ui_part_1/macos/Runner/MainFlutterWindow.swift": [1581404976, 0]
+  "/Users/shirokun/Documents/flutter/belajar_ui_part_1/macos/Runner/AppDelegate.swift": [1581404976, 0]
+  "/Users/shirokun/Documents/flutter/belajar_ui_part_1/macos/Flutter/GeneratedPluginRegistrant.swift": [1594902724, 0]
